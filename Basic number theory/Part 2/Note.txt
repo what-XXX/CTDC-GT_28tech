@@ -1,0 +1,3 @@
+- Thuật toán sàng số nguyên tố biến đổi dùng để tìm ước số nguyên tố nhỏ nhất, có tác dụng 
+- ước số nguyên tố lớn nhất của 1 số nguyên dương thực chất là tìm thừa số nguyên tố lớn nhất của số nguyên n
+- một số chia hết cho 1 số nguyên tố ==> phân tích thừa số nguyên tố

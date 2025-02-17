@@ -1,0 +1,3 @@
+- số tự nhiên có mọi ước số là lẻ thì là số chính phương
+- nếu p là số nguyên tố và 2^p -1 cũng là số nguyên tố ==> 2^(p-1)*(2^p-1) là số hoàn hảo
+- phi hàm euler dùng để tính số lượng các số nguyên tố cùng nhau với n trong đoạn từ 1 tới n
