@@ -7,5 +7,12 @@ tính tổng2: x2*(x2+1)/2;
   nếu dư 0: 6
       dư 1: 8
       dư 2: 4
-      dư 3: 3
-- Chữ số cuối cùng của a^n cũng chính là (chữ số cuối cùng của a)^n
+      dư 3: 2
+- Chữ số cuối cùng của a^n cũng chính là (chữ số cuối cùng của a)^n: ta lấy a/4;
+   dư 2: 6, 2, 4, 8
+   dư 3: 1, 3, 9, 2
+   dư 4: 6, 4, 6, 4
+   dư 7: 1, 7, 9, 3
+   dư 8: 6, 8, 4, 2
+   dư 9: 1, 9, 1, 9
+- Nếu chữ số cuối của số = 1,6,5,0 ==> kết quả khi bình phương 1 số với n là chính nó
